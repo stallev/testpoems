@@ -1,0 +1,1 @@
+export { MyWorks, MyTechnologies, mySocials } from './mocks';
