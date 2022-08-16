@@ -1,5 +1,6 @@
 export const RoutePath = {
   Landing: '/',
+  Auth: 'auth',
   NewPoem: 'new-poem',
   Poem: 'poem',
   Profile: 'profile',

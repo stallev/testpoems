@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "testpoems",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authtestpoems6ed67a1c",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testpoems-dev-192848-authRole",
+      "UnauthRoleArn": "arn:aws:iam::260402007550:role/amplify-testpoems-dev-192848-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::260402007550:role/amplify-testpoems-dev-192848-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testpoems-dev-192848-deployment",
+      "UnauthRoleName": "amplify-testpoems-dev-192848-unauthRole",
+      "StackName": "amplify-testpoems-dev-192848",
+      "StackId": "arn:aws:cloudformation:us-east-1:260402007550:stack/amplify-testpoems-dev-192848/59568a30-1cb7-11ed-a7b3-0ad0d8868767",
+      "AmplifyAppId": "dfu1d69djg2o0"
+    },
+    "categories": {
+      "auth": {
+        "testpoems6ed67a1c": {}
+      }
+    }
+  }
+}
